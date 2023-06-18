@@ -10,4 +10,4 @@ Este repositorio contiene notebooks con código de ejemplo para realizar visuali
     - 𝘀𝗲𝗮𝗯𝗼𝗿𝗻 
  
 
-👏 ¡Por favor, dame un ⭐️ si te gusta este proyecto!
+# ¡Por favor, dame un ⭐️ si te gusta y utilizas este proyecto! 👏
