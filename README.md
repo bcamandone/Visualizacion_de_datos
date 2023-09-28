@@ -8,6 +8,7 @@ Este repositorio contiene notebooks con código de ejemplo para realizar visuali
 
     - 𝗺𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 
     - 𝘀𝗲𝗮𝗯𝗼𝗿𝗻 
+    - Ploty 
  
 
 # ¡Por favor, dame un ⭐️ si te gusta y utilizas este proyecto! 👏
