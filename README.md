@@ -6,8 +6,9 @@
 
 Este repositorio contiene notebooks con código de ejemplo para realizar visualizaciones de datos utilizando las librerías: 
 
-    - 𝗺𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 
-    - 𝘀𝗲𝗮𝗯𝗼𝗿𝗻 
+
+    - Matplotlib
+    - Seaborn
     - Ploty 
  
 
